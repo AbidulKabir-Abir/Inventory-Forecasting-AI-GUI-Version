@@ -1,0 +1,7 @@
+Inventory-Forecasting-AI/
+│
+├── data/
+│   └── sales_data.csv       # Sample CSV file
+├── InFoAI_GUI.py            # Main GUI Python script
+├── requirements.txt         # Python dependencies
+└── README.md                # Project description and instructions
