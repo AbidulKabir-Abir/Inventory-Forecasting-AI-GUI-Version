@@ -28,7 +28,7 @@ Your CSV must have these columns:
 ## Installation
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/Inventory-Forecasting-AI.git
+git clone https://github.com/AbidulKabir-Abir/Inventory-Forecasting-AI-GUI-Version.git
 cd Inventory-Forecasting-AI
 pip install -r requirements.txt
 
@@ -42,4 +42,5 @@ Inventory-Forecasting-AI/
 ├── InFoAI_GUI.py          # Main GUI script
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project description
+
 
